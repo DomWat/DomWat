@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathannosudo&layout=compact" alt="nathannosudo" /></p>
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=NathanNoSudo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=DomWat&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
