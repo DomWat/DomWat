@@ -1,4 +1,4 @@
-### WELCOME! 👋
+
 
 <!--
 **DomWat/DomWat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm "Awesome Builder"</h1>
+<h1 align="center">Welcome 👋, I'm Dom!</h1>
 <h3 align="center">A passionate Full-Stack developer from "Houston"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DomWat&label=Profile%20views&color=0e75b6&style=flat" alt="DomWat" /> </p>
