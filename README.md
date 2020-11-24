@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <!-- - 🤝 I’m looking for help with ["project name"](https://code-blooded-dev.surge.sh) -->
 
-- 👨‍💻 All of my projects are available at [Link TO Portfolio](Link TO Portfolio)
+- 👨‍💻 All of my projects are available at [Link TO Portfolio](http://www.domwaters.com)
 
 <!-- - 📝 I regulary write articles on [Link TO Blog](Link TO Blog) -->
 
