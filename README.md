@@ -52,11 +52,7 @@ Here are some ideas to get you started:
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/domwat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Dominic" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackoverflow user id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow user id" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dominic.waters.96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook username" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram usrname" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram usrname" height="30" width="40" /></a>
-<a href="https://dribbble.com/dribbble username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dribbble username" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerrank username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank username" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
