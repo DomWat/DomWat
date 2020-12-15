@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/nosudo_" target="blank"><img src="https://img.shields.io/twitter/follow/nosudo_?logo=twitter&style=for-the-badge" alt="nosudo_" /></a> </p>
 
-- 🔭 I’m currently working on ["React D&D Character Builder"](https://code-blooded-dev.surge.sh)
+- 🔭 I’m currently working on ["React Burger builder and price tracker"](https://code-blooded-dev.surge.sh)
 
 - 🌱 I’m currently learning **React, Redux, JSON Web Tokens, SwiftUI**
 
