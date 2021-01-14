@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ["React Burger builder and price tracker"](https://dom-s-burger-palace.web.app/)
 
-- 🌱 I’m currently learning **React, Redux, JSON Web Tokens, SwiftUI**
+- 🌱 I’m currently learning **Advanced JavaScript, SwiftUI**
 
 <!-- - 👯 I’m looking to collaborate on ["project name"](https://code-blooded-dev.surge.sh) -->
 
